@@ -1,4 +1,6 @@
-fcc_profile
+freeCodeCamp.com Stats Page
 ===========
 
-Profile Page for FreeCodeCamp Members
+Get stats from users in the community?
+
+
